@@ -1,5 +1,6 @@
 # HagerHelmy
 Automation Projects Explanation:
+Make sure you have chrome version "96.0.4664.45" to be able to run the project successfully
 "Facebook Registeration":
 It's a Maven project, i created it using Eclipse IDE and Page object model for the project structure
 Below are the five classes in the package that is in the test folder:
@@ -8,7 +9,7 @@ Below are the five classes in the package that is in the test folder:
 3- Login test using data driven (Read from excel)
 4- User registeration using static data
 5- User registeration using data driven (Read from excel)
----------------You can run the four test classes either each one separately or from the testng.xml suite which runs all the tests-------------------
+You can run the four test classes either each one separately or from the testng.xml suite which runs all the tests
 
 
 "API Playground Automation":
@@ -22,4 +23,4 @@ The project contains four test classes for the following APIs:
 - Stores
 And the test classes contains different tests for (Create/Read/Update/Delete) and also status code validation tests. 
 
----------------You can run the four test classes either each one separately or from the testng.xml suite which runs all the tests-------------------
+You can run the four test classes either each one separately or from the testng.xml suite which runs all the tests
